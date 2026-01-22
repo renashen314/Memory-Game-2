@@ -1,0 +1,18 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.gray-cover{
+  width: 300px;
+  height: 300px;
+  background-color: gray;
+}
+
+.flipped-images {
+  width: 300px;
+  height: 300px;
+  /* background-image: url(); */
+}
